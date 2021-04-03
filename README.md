@@ -1,0 +1,2 @@
+# Atividade-8
+Programa que faz com que a intensidade luminosa de um LED seja controlada por um sinal PWM. Mais especificamente, desejamos que a intensidade cresça em, aproximadamente, 1 segundo desde a mínima até a máxima, de maneira que enxerguemos o LED acendendo aos poucos. Então, uma vez atingida a máxima intensidade, devemos reduzi-la até o valor mínimo também em um intervalo de, aproximadamente, 1 segundo.
